@@ -1,0 +1,3 @@
+Programming Languages: HTML, CSS
+
+This is a static website that displays images and text
