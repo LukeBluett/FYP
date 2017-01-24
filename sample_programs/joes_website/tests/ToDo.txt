@@ -1,0 +1,9 @@
+Tests for this program
+
+1 - Each div should be verified that they are working correctly
+	Colors are correct (clear)
+	Text is correct (clear, readable)
+	Formating correctly 
+
+2 - Both the HTML files and CSS files should be put through w3Schools to 
+verify there are no errors in the code
