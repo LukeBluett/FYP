@@ -1,0 +1,14 @@
+
+*Installing Docker and testing*
+eopkg install docker-engine
+systemctl enable docker
+docker run hello-world
+
+*Creating Dockerfile*
+
+*find ID of runnning container*
+docker ps
+docker ps -a
+
+*Enter in docker filesystem*
+docker run -t -i ubuntu /bin/bash
